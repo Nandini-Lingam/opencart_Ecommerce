@@ -1,0 +1,66 @@
+16:05:21.521 [main] INFO  testCases.TC_003_LoginDDT - *** Finished TC_003_LoginDDT *** 
+16:05:21.529 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+16:37:32.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+16:38:11.367 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/master.xml
+
+16:38:17.399 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:38:17.567 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+16:38:17.954 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+16:38:18.739 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:45:04.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/master.xml
+
+16:45:09.455 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:45:09.588 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+16:45:09.943 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+16:45:10.650 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:48:22.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/master.xml
+
+16:48:26.882 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:48:27.055 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+16:48:27.394 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+16:48:28.180 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:48:28.495 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+17:17:19.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/grouping.xml
+
+17:17:26.676 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+17:17:27.078 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+17:17:27.630 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+17:17:28.601 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+17:17:28.997 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+17:18:31.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/grouping.xml
+
+17:18:37.826 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****   Starting TC_001_AccountRegistrationTest   **** 
+17:18:38.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+17:18:38.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+17:18:38.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+17:18:40.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+17:18:40.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:18:40.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+17:18:40.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****  Finished TC_001_AccountRegistrationTest  ****
+17:19:28.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/grouping.xml
+
+17:19:33.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****   Starting TC_001_AccountRegistrationTest   **** 
+17:19:33.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+17:19:34.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+17:19:34.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+17:19:35.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+17:19:35.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+17:19:35.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+17:19:35.705 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****  Finished TC_001_AccountRegistrationTest  ****
+17:19:39.817 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+17:19:39.974 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+17:19:40.302 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+17:19:41.074 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+17:19:41.382 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+15:40:13.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/nani/IdeaProjects/opencart_Ecommerce/grouping.xml
+
+15:40:20.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****   Starting TC_001_AccountRegistrationTest   **** 

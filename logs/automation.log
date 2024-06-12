@@ -1,0 +1,28 @@
+16:09:47.903 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:09:48.268 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+16:37:40.186 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****   Starting TC_001_AccountRegistrationTest   **** 
+16:37:40.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+16:37:40.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+16:37:40.681 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+16:37:42.066 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+16:37:42.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+16:37:42.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+16:37:42.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****  Finished TC_001_AccountRegistrationTest  ****
+16:37:46.046 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:37:46.142 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+16:37:46.456 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+16:37:47.151 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:37:47.441 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+10:48:52.532 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****   Starting TC_001_AccountRegistrationTest   **** 
+10:48:52.681 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+10:48:53.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+10:48:53.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+10:48:54.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue..
+10:48:54.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+10:48:54.648 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+10:48:54.651 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****  Finished TC_001_AccountRegistrationTest  ****
+10:48:59.088 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+10:48:59.204 [main] INFO  testCases.TC_002_LoginTest - clicked on my account link on the home page..
+10:48:59.609 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount
+10:49:00.401 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+10:49:00.709 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
